@@ -45,6 +45,11 @@ A fun and interactive **Hangman Game** built using **Python**. Players are chall
 1. Ensure you have **Python** installed ([Download](https://www.python.org/downloads/)).
 2. Download or clone this repository.
 
+```bash
+cd Hangman-Game
+python hangman_game.py
+```
+
 
 ---
 
