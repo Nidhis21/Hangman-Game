@@ -78,14 +78,5 @@ A fun and interactive **Hangman Game** built using **Python**. Players are chall
 
 ---
 
-## Future Improvements (Optional Ideas)
-
-- Add levels of difficulty
-- Implement graphics using `tkinter` or `pygame`
-- Track high scores or game history
-
----
-
-
 
 
