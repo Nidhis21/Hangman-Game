@@ -47,7 +47,7 @@ A fun and interactive **Hangman Game** built using **Python**. Players are chall
 
 ```bash
 cd Hangman-Game
-python hangman_game.py
+python "hangman game.py"
 ```
 
 
